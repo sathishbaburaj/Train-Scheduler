@@ -1,0 +1,22 @@
+panel{
+	width: 100%;
+	font-family: 'Roboto', sans-serif;
+ 
+}
+
+.jumbotron{
+	background-color:sienna; 
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
+h3{
+	background-color:mediumblue;
+	color: white;
+	border-radius: 5px;
+	padding: 5px;
+}
+
